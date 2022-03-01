@@ -8,7 +8,7 @@ try:
 except ImportError:
 	os.system("pip2 install requests")
 
-saiful = ['Op Bolty','Good Jani','Keep It Up ','Wah Bhai','Kia Baat Hy ','Aag Lga Di','Tu Baqio Sy Alag Hy Vro','Agar May Larki Hota Toh Tuj sy Shaadi Krta ','Ha Chikny Lub u']
+qaiser = ['Op Bolty','Good Jani','Keep It Up ','Wah Bhai','Kia Baat Hy ','Aag Lga Di','Tu Baqio Sy Alag Hy Vro','Agar May Larki Hota Toh Tuj sy Shaadi Krta ','Ha Chikny Lub u']
 qaiserchoice = random.choice(qaiser)
 agents = [
  'Mozilla/5.0 (Windows NT 6.0; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0',
